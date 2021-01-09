@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Masaüstü\\workspace\\dapperExample\\dapperExample\\dapperExample\\dapperExample.csproj": {}
+    "C:\\Users\\Berat\\Documents\\GitHub\\dapperExample\\dapperExample\\dapperExample.csproj": {}
   },
   "projects": {
-    "D:\\Masaüstü\\workspace\\dapperExample\\dapperExample\\dapperExample\\dapperExample.csproj": {
+    "C:\\Users\\Berat\\Documents\\GitHub\\dapperExample\\dapperExample\\dapperExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Masaüstü\\workspace\\dapperExample\\dapperExample\\dapperExample\\dapperExample.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\Documents\\GitHub\\dapperExample\\dapperExample\\dapperExample.csproj",
         "projectName": "dapperExample",
-        "projectPath": "D:\\Masaüstü\\workspace\\dapperExample\\dapperExample\\dapperExample\\dapperExample.csproj",
+        "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\dapperExample\\dapperExample\\dapperExample.csproj",
         "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-        "outputPath": "D:\\Masaüstü\\workspace\\dapperExample\\dapperExample\\dapperExample\\obj\\",
+        "outputPath": "C:\\Users\\Berat\\Documents\\GitHub\\dapperExample\\dapperExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
